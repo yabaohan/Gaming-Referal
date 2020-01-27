@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/Gaming-Referal/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Gaming-Referal/static/js/main.1744a3ce.chunk.js",
-    "main.js.map": "/Gaming-Referal/static/js/main.1744a3ce.chunk.js.map",
+    "main.js": "/Gaming-Referal/static/js/main.af37871f.chunk.js",
+    "main.js.map": "/Gaming-Referal/static/js/main.af37871f.chunk.js.map",
     "runtime-main.js": "/Gaming-Referal/static/js/runtime-main.621fa4f7.js",
     "runtime-main.js.map": "/Gaming-Referal/static/js/runtime-main.621fa4f7.js.map",
-    "static/js/2.b356bc0e.chunk.js": "/Gaming-Referal/static/js/2.b356bc0e.chunk.js",
-    "static/js/2.b356bc0e.chunk.js.map": "/Gaming-Referal/static/js/2.b356bc0e.chunk.js.map",
+    "static/js/2.ad6073ab.chunk.js": "/Gaming-Referal/static/js/2.ad6073ab.chunk.js",
+    "static/js/2.ad6073ab.chunk.js.map": "/Gaming-Referal/static/js/2.ad6073ab.chunk.js.map",
     "index.html": "/Gaming-Referal/index.html",
-    "precache-manifest.c4e1ebf5b3ab2a9048451cb1f78a2f70.js": "/Gaming-Referal/precache-manifest.c4e1ebf5b3ab2a9048451cb1f78a2f70.js",
+    "precache-manifest.d72b2ccb782f413cfef5661c3ac8b6fd.js": "/Gaming-Referal/precache-manifest.d72b2ccb782f413cfef5661c3ac8b6fd.js",
     "service-worker.js": "/Gaming-Referal/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/Gaming-Referal/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.b356bc0e.chunk.js.LICENSE": "/Gaming-Referal/static/js/2.b356bc0e.chunk.js.LICENSE",
-    "static/media/logo.svg": "/Gaming-Referal/static/media/logo.5d5d9eef.svg"
+    "static/js/2.ad6073ab.chunk.js.LICENSE": "/Gaming-Referal/static/js/2.ad6073ab.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.621fa4f7.js",
-    "static/js/2.b356bc0e.chunk.js",
+    "static/js/2.ad6073ab.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.1744a3ce.chunk.js"
+    "static/js/main.af37871f.chunk.js"
   ]
 }
