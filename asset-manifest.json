@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Gaming-Referal/static/css/main.bf4edbc9.chunk.css",
-    "main.js": "/Gaming-Referal/static/js/main.e9b0df5c.chunk.js",
-    "main.js.map": "/Gaming-Referal/static/js/main.e9b0df5c.chunk.js.map",
+    "main.css": "/Gaming-Referal/static/css/main.d487ab55.chunk.css",
+    "main.js": "/Gaming-Referal/static/js/main.1b774ee6.chunk.js",
+    "main.js.map": "/Gaming-Referal/static/js/main.1b774ee6.chunk.js.map",
     "runtime-main.js": "/Gaming-Referal/static/js/runtime-main.621fa4f7.js",
     "runtime-main.js.map": "/Gaming-Referal/static/js/runtime-main.621fa4f7.js.map",
-    "static/js/2.89f319c4.chunk.js": "/Gaming-Referal/static/js/2.89f319c4.chunk.js",
-    "static/js/2.89f319c4.chunk.js.map": "/Gaming-Referal/static/js/2.89f319c4.chunk.js.map",
+    "static/js/2.bf272fd5.chunk.js": "/Gaming-Referal/static/js/2.bf272fd5.chunk.js",
+    "static/js/2.bf272fd5.chunk.js.map": "/Gaming-Referal/static/js/2.bf272fd5.chunk.js.map",
     "index.html": "/Gaming-Referal/index.html",
-    "precache-manifest.f49584d5be7f0b71f00f23fd5048f2cc.js": "/Gaming-Referal/precache-manifest.f49584d5be7f0b71f00f23fd5048f2cc.js",
+    "precache-manifest.387fdc382f93bf69c64a5cdb798dd43e.js": "/Gaming-Referal/precache-manifest.387fdc382f93bf69c64a5cdb798dd43e.js",
     "service-worker.js": "/Gaming-Referal/service-worker.js",
-    "static/css/main.bf4edbc9.chunk.css.map": "/Gaming-Referal/static/css/main.bf4edbc9.chunk.css.map",
-    "static/js/2.89f319c4.chunk.js.LICENSE": "/Gaming-Referal/static/js/2.89f319c4.chunk.js.LICENSE"
+    "static/css/main.d487ab55.chunk.css.map": "/Gaming-Referal/static/css/main.d487ab55.chunk.css.map",
+    "static/js/2.bf272fd5.chunk.js.LICENSE": "/Gaming-Referal/static/js/2.bf272fd5.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.621fa4f7.js",
-    "static/js/2.89f319c4.chunk.js",
-    "static/css/main.bf4edbc9.chunk.css",
-    "static/js/main.e9b0df5c.chunk.js"
+    "static/js/2.bf272fd5.chunk.js",
+    "static/css/main.d487ab55.chunk.css",
+    "static/js/main.1b774ee6.chunk.js"
   ]
 }
